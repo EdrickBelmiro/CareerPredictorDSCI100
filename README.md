@@ -1,7 +1,6 @@
 # Personal Project DSCI 100 - Company Suggestor <br>
 
-#### Team lead: 
-#### Edrick Belmiro Philbertio
+### Team lead: Edrick Belmiro Philbertio
 Member(s): 
 - Jessie Zhao
 - Aretas Katabaro
